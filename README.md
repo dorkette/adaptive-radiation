@@ -5,7 +5,7 @@ I am the "Chow" in the author list, and wrote the clustering source code. The so
 
 The clustering algorithm uses as a distance measure the number of steps separating one organism from another on the phylogenetic tree; since the digital organisms are initialized as a clonal population, this is straightforward to calculate.
 
-The original README file for the supplementary material, slightly edited for readability and clarity, follows:
+The original README file for the supplementary material, slightly re-formatted for readability, follows:
 
 Source code in source/
 
@@ -35,6 +35,7 @@ resources/
 limited resource environment experiments
 
 resources_long_runs/
+
 limited resource environment experiments with inflows of 10 and 0.1,
 with doubled duration to look at long term trends
 
@@ -45,5 +46,6 @@ species from an ecosystem tries to invade a population of the other
 species in the ecosystem
 
 ecosystem_invasion/
+
 invasion experiments -- specialists from inflow 100000 replicates
 are competed against an ecosystem evolved at inflow 1000
