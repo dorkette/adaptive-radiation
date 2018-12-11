@@ -1,7 +1,7 @@
 # adaptive-radiation
 copy of the supplemental material from "Adaptive Radiation in Resource Competition in Digital Organisms" by Chow, Wilke, Ofria, Lenski and Adami, Science (2004)
 
-original README follows:
+original README, slightly edited for readability and clarity, follows:
 
 Source code in source/
 
@@ -10,7 +10,7 @@ available in the source/avida/ directory.
 
 The clustering source code is in the source/clustering directory.
 
-
+\\
 
 Experimental Setup in exp-setup/
 
