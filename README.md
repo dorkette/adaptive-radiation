@@ -1,5 +1,7 @@
 # adaptive-radiation
-copy of the supplemental material from "Adaptive Radiation in Resource Competition in Digital Organisms" by Chow, Wilke, Ofria, Lenski and Adami, Science (2004)
+copy of the supplemental material from "Adaptive Radiation in Resource Competition in Digital Organisms" by Chow, Wilke, Ofria, Lenski, and Adami, Science (2004)
+
+I am the "Chow" in the author list, and wrote the clustering source code. The version of the avida source code used in the experiments is included since it is part of the supplemental material, but I am not its author. For the newest version of avida, [find it on github](https://github.com/devosoft/avida). 
 
 original README, slightly edited for readability and clarity, follows:
 
